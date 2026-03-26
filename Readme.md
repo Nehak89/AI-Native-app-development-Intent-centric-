@@ -62,8 +62,8 @@ ai-native-app-development/
 ### 1️⃣ Clone Repo
 
 ```
-git clone https://github.com/Vaishnav88sk/ai-native-app-development.git
-cd ai-native-app-development/
+git clone https://github.com/Nehak89/AI-Native-app-development-Intent-centric-.git
+cd AI-Native-app-development-Intent-centric-/
 ```
 
 ---
