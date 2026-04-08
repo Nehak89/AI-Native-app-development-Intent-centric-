@@ -2,7 +2,8 @@
 
 An AI-powered platform that converts natural language ideas into complete full-stack application blueprints - including architecture, APIs, database schema, and UI flows.
 
----
+----
+----
 ## 🎥 Product Walkthrough
 
 See how AI Intent transforms ideas into applications:
